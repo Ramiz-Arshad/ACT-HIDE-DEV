@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction
+        Title="Hide"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ClientSideComponentId="f4decf91-4647-4683-a256-6c511aa539cb"
+        ClientSideComponentProperties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+    </CustomAction>
+</Elements>
